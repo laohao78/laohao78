@@ -1,4 +1,4 @@
-# 👋 欢迎来到 唐昊 的 GitHub 主页
+# 👋 欢迎来到 我 的 GitHub 主页
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&width=600&height=60&lines=Robotics+Engineer;AI+%2B+Embodied+Intelligence;Open+Source+Enthusiast" alt="Typing Animation" />
@@ -8,7 +8,7 @@
 
 ## 🎯 关于我
 
-我是唐昊，一名机器人工程师和 AI 爱好者，来自武汉理工大学。专注于 ROS、机械臂控制、自主导航系统以及**具身智能（Embodied AI）** 的研发。致力于将前沿的机器人算法和 AI 技术转化为可实现的工程解决方案。
+我是唐昊，一名机器人爱好者。专注于 ROS、机械臂控制、自主导航系统以及**具身智能（Embodied AI）** 的研发。致力于将前沿的机器人算法和 AI 技术转化为可实现的工程解决方案。
 
 - 🔭 目前正在从事：**ROS2 导航系统、LLM 驱动的机器人决策与仿真**
 - 🌱 正在学习：**具身智能（VLA/RL/世界模型）、大模型在机器人中的应用、高精度定位与导航（SLAM/LIO）**
