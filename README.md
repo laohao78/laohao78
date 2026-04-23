@@ -1,20 +1,20 @@
-# 👋 欢迎来到我的 GitHub 主页
+# 👋 欢迎来到 唐昊 的 GitHub 主页
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&width=500&height=60&lines=Full+Stack+Developer;Problem+Solver;Lifelong+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&width=600&height=60&lines=Robotics+Engineer;AI+%2B+Embodied+Intelligence;Open+Source+Enthusiast" alt="Typing Animation" />
 </div>
 
 ---
 
 ## 🎯 关于我
 
-我是一名机器人技术爱好者和开发者，专注于 ROS、机械臂控制和自主导航系统的研发。致力于将前沿的机器人算法转化为可实现的工程解决方案。
+我是唐昊，一名机器人工程师和 AI 爱好者，来自武汉理工大学。专注于 ROS、机械臂控制、自主导航系统以及**具身智能（Embodied AI）** 的研发。致力于将前沿的机器人算法和 AI 技术转化为可实现的工程解决方案。
 
 - 🔭 目前正在从事：**ROS2 导航系统、LLM 驱动的机器人决策与仿真**
-- 🌱 正在学习：**大模型在机器人中的应用、高精度定位与导航（SLAM/LIO）**
-- 💬 可以交流的话题：ROS、机械臂、视觉抓取、自主导航、RoboMaster 竞赛、AI+机器人
-- ⚡ 有趣的事实：热衷于开源贡献，参加 RoboMaster 竞赛，喜欢将学术研究落地应用
-- 📧 联系方式：**GitHub Issues** | **Pull Requests** | **技术讨论**
+- 🌱 正在学习：**具身智能（VLA/RL/世界模型）、大模型在机器人中的应用、高精度定位与导航（SLAM/LIO）**
+- 💬 可以交流的话题：ROS、机械臂、视觉抓取、自主导航、RoboMaster 竞赛、AI+机器人、具身智能
+- ⚡ 有趣的事实：热衷于开源贡献，参加 RoboMaster 竞赛，喜欢将学术研究落地应用，对机器人视觉和决策系统充满热情
+- 📧 联系方式：**tanghao@whut.edu.cn** | **GitHub Issues** | **技术讨论**
 
 ---
 
@@ -29,9 +29,10 @@
 ![MoveIt](https://img.shields.io/badge/-MoveIt-0078D4?style=flat-square&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/-Gazebo-FF6B6B?style=flat-square&logoColor=white)
 
-### 💻 编程语言
+### 💻 编程语言与框架
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 ### 🔧 工具与技术
@@ -40,11 +41,13 @@
 ![SLAM](https://img.shields.io/badge/-SLAM-FF6B6B?style=flat-square&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-### 📊 相关领域
+### 📊 专业领域
 ![机械臂控制](https://img.shields.io/badge/-机械臂控制-009999?style=flat-square&logoColor=white)
 ![视觉伺服](https://img.shields.io/badge/-视觉伺服-FF6B6B?style=flat-square&logoColor=white)
 ![运动规划](https://img.shields.io/badge/-运动规划-0078D4?style=flat-square&logoColor=white)
 ![自主导航](https://img.shields.io/badge/-自主导航-00A86B?style=flat-square&logoColor=white)
+![具身智能](https://img.shields.io/badge/-具身智能(VLA/RL)-FF9800?style=flat-square&logoColor=white)
+![世界模型](https://img.shields.io/badge/-世界模型-9C27B0?style=flat-square&logoColor=white)
 
 </div>
 
@@ -120,13 +123,13 @@
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-tanghao%40whut.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanghao@whut.edu.cn)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/laohao78)
 [![Issues](https://img.shields.io/badge/Issues-Open%20Discussion-blue?style=flat-square)](https://github.com/laohao78?tab=repositories)
-[![项目讨论](https://img.shields.io/badge/讨论-技术交流-brightgreen?style=flat-square)](https://github.com/laohao78/ROS1_ARM_Simulation/discussions)
 
 > 💡 欢迎在我的项目中提出 Issue 和 Pull Request！  
 > 🤝 热衷于技术交流和开源贡献  
-> 📧 可通过 GitHub 联系我讨论机器人、ROS 等技术话题
+> 📧 邮箱：tanghao@whut.edu.cn（讨论机器人、ROS、具身智能等技术话题）
 
 </div>
 
