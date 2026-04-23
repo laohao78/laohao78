@@ -8,13 +8,13 @@
 
 ## 🎯 关于我
 
-我是一名热情的开发者，致力于创建高效、优美的解决方案。喜欢学习新技术，热衷于开源贡献。
+我是一名机器人技术爱好者和开发者，专注于 ROS、机械臂控制和自主导航系统的研发。致力于将前沿的机器人算法转化为可实现的工程解决方案。
 
-- 🔭 目前正在从事：**[你的主要工作项目]**
-- 🌱 正在学习：**[你的学习方向]**
-- 💬 可以交流的话题：技术、开发、创意想法
-- ⚡ 有趣的事实：[分享一个有趣的个人信息]
-- 📧 联系方式：**[你的邮箱]** | **[LinkedIn]** | **[其他平台]**
+- 🔭 目前正在从事：**ROS2 导航系统、LLM 驱动的机器人决策与仿真**
+- 🌱 正在学习：**大模型在机器人中的应用、高精度定位与导航（SLAM/LIO）**
+- 💬 可以交流的话题：ROS、机械臂、视觉抓取、自主导航、RoboMaster 竞赛、AI+机器人
+- ⚡ 有趣的事实：热衷于开源贡献，参加 RoboMaster 竞赛，喜欢将学术研究落地应用
+- 📧 联系方式：**GitHub Issues** | **Pull Requests** | **技术讨论**
 
 ---
 
@@ -22,23 +22,29 @@
 
 <div align="center">
 
-### 🎨 前端
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+### 🤖 机器人框架
+![ROS1](https://img.shields.io/badge/-ROS1-22314E?style=flat-square&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Nav2](https://img.shields.io/badge/-Nav2-0078D4?style=flat-square&logoColor=white)
+![MoveIt](https://img.shields.io/badge/-MoveIt-0078D4?style=flat-square&logoColor=white)
+![Gazebo](https://img.shields.io/badge/-Gazebo-FF6B6B?style=flat-square&logoColor=white)
 
-### 🔧 后端
+### 💻 编程语言
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![CMake](https://img.shields.io/badge/-CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
-### 🛠️ 工具
+### 🔧 工具与技术
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![SLAM](https://img.shields.io/badge/-SLAM-FF6B6B?style=flat-square&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### 📊 相关领域
+![机械臂控制](https://img.shields.io/badge/-机械臂控制-009999?style=flat-square&logoColor=white)
+![视觉伺服](https://img.shields.io/badge/-视觉伺服-FF6B6B?style=flat-square&logoColor=white)
+![运动规划](https://img.shields.io/badge/-运动规划-0078D4?style=flat-square&logoColor=white)
+![自主导航](https://img.shields.io/badge/-自主导航-00A86B?style=flat-square&logoColor=white)
 
 </div>
 
@@ -47,48 +53,66 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laohao78&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laohao78&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
 ## 🏆 精选项目
 
-### 🚀 [项目名称 1](项目链接)
-> 简短的项目描述
-- 🔧 技术栈：HTML, CSS, JavaScript
-- ⭐ 亮点：项目的主要特点
-- 📍 [查看项目](项目链接) | [源代码](GitHub链接)
+### 🚀 [ROS1_ARM_Simulation](https://github.com/laohao78/ROS1_ARM_Simulation)
+> 基于 ROS 和 Gazebo 的完整机械臂仿真平台
+- 🔧 技术栈：C++, ROS1, Gazebo, MoveIt, OpenCV
+- ⭐ 亮点：集成了相机标定、手眼标定到视觉抓取全流程；实现多种抓取算法（几何法与机器学习 GPD）
+- 📊 成就：**6⭐** | 高保真仿真环境，适合机器人视觉伺服和智能抓取学习
+- 📍 [查看仓库](https://github.com/laohao78/ROS1_ARM_Simulation)
 
-### 🎨 [项目名称 2](项目链接)
-> 简短的项目描述
-- 🔧 技术栈：React, Node.js, MongoDB
-- ⭐ 亮点：项目的主要特点
-- 📍 [查看项目](项目链接) | [源代码](GitHub链接)
+### 🎨 [ROS2_RM_Navigation](https://github.com/laohao78/ROS2_RM_Navigation)
+> 基于 ROS2 & Nav2 的机器人导航解决方案（RoboMaster 竞赛）
+- 🔧 技术栈：C++, ROS2, Nav2, Livox 激光雷达, IMU, SLAM
+- ⭐ 亮点：集成多传感器融合定位（LIO/SLAM）、动态避障导航、支持多种场地配置
+- 📊 成就：**4⭐** | 完整的实车适配指南，RoboMaster 竞赛最佳实践
+- 📍 [查看仓库](https://github.com/laohao78/ROS2_RM_Navigation)
 
-### 💻 [项目名称 3](项目链接)
-> 简短的项目描述
-- 🔧 技术栈：Python, Django, PostgreSQL
-- ⭐ 亮点：项目的主要特点
-- 📍 [查看项目](项目链接) | [源代码](GitHub链接)
+### 💻 [ROS2_LightMap_Delivery](https://github.com/laohao78/ROS2_LightMap_Delivery)
+> 自主机器人最后一公里配送系统（LLM + 开源地图）
+- 🔧 技术栈：Python, ROS2, LLM, OpenStreetMap, 语义导航
+- ⭐ 亮点：无需高精地图，仅用开源 OSM + AI 大模型实现语义导航和智能决策
+- 📊 成就：**1⭐** | 创新的 AI 驱动机器人导航方向
+- 📍 [查看仓库](https://github.com/laohao78/ROS2_LightMap_Delivery)
+
+### ⚡ [ROS1_SW_Moveit](https://github.com/laohao78/ROS1_SW_Moveit)
+> 从 SolidWorks 到 Gazebo 的完整机械臂建模与控制工作流
+- 🔧 技术栈：C++, ROS, MoveIt, SolidWorks, URDF, Realsense
+- ⭐ 亮点：CAD 到仿真的端到端工作流；集成了 Realsense 相机模块
+- 📍 [查看仓库](https://github.com/laohao78/ROS1_SW_Moveit)
+
+### 🧭 [ROS2_RM_Decision](https://github.com/laohao78/ROS2_RM_Decision)
+> RoboMaster 场景的智能决策与导航系统
+- 🔧 技术栈：C++, ROS2, 路径规划, 环境感知, 任务调度
+- ⭐ 亮点：融合多传感器数据，实现复杂环境中的自主决策与运动控制
+- 📍 [查看仓库](https://github.com/laohao78/ROS2_RM_Decision)
 
 ---
 
 ## 📈 贡献和成就
 
-- 🌟 在 [项目名称] 中有 **X** 个 Star
-- 🔗 维护 **X** 个开源项目
-- 👥 获得 **X** 个追随者
-- 💬 发布了 **X** 篇技术文章
+- 🌟 在 **ROS1_ARM_Simulation** 中获得 **6** 个 Star
+- 🔗 维护 **8** 个开源项目（ROS、机械臂、导航领域）
+- 👥 获得 **1** 个追随者（不断增长中）
+- 💬 发布了多个详细的 README 文档和使用指南
+- 🏆 参与 RoboMaster 竞赛，积累了丰富的竞赛经验
+- 🔄 跨越 ROS1/ROS2 两个版本，展示全栈机器人开发能力
 
 ---
 
 ## 🎓 学习与认证
 
-- 📚 [学位/认证 1](链接)
-- 📚 [学位/认证 2](链接)
-- 📚 [课程/证书 3](链接)
+- 📚 **ROS 官方文档** - ROS1/ROS2 生态系统深度学习
+- 📚 **机器学习与计算机视觉** - 深度学习在机器人感知中的应用
+- 📚 **RoboMaster 竞赛经验** - 实战中的机器人系统集成能力
+- 📚 **持续学习** - 关注 AI + 机器人的前沿方向（LLM、大模型驱动的决策）
 
 ---
 
@@ -96,10 +120,13 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:你的邮箱)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](你的LinkedIn)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](你的Twitter)
-[![个人网站](https://img.shields.io/badge/Website-000000?style=flat-square&logo=aboutme&logoColor=white)](你的网站)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/laohao78)
+[![Issues](https://img.shields.io/badge/Issues-Open%20Discussion-blue?style=flat-square)](https://github.com/laohao78?tab=repositories)
+[![项目讨论](https://img.shields.io/badge/讨论-技术交流-brightgreen?style=flat-square)](https://github.com/laohao78/ROS1_ARM_Simulation/discussions)
+
+> 💡 欢迎在我的项目中提出 Issue 和 Pull Request！  
+> 🤝 热衷于技术交流和开源贡献  
+> 📧 可通过 GitHub 联系我讨论机器人、ROS 等技术话题
 
 </div>
 
@@ -109,6 +136,6 @@
   
   ### ✨ 感谢你的访问！欢迎 Star ⭐ 和 Fork 🍴
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=laohao78&color=blueviolet" alt="Profile Views" />
   
 </div>
