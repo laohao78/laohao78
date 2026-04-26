@@ -75,7 +75,7 @@
 > 基于 ROS2 & Nav2 的机器人导航解决方案（RoboMaster 竞赛）
 - 🔧 技术栈：C++, ROS2, Nav2, Livox 激光雷达, IMU, SLAM
 - ⭐ 亮点：集成多传感器融合定位（LIO/SLAM）、动态避障导航、支持多种场地配置
-- 📊 成就：**4⭐** | 完整的实车适配指南，RoboMaster 竞赛最佳实践
+- 📊 成就：**5⭐** | 完整的实车适配指南，RoboMaster 竞赛最佳实践
 - 📍 [查看仓库](https://github.com/laohao78/ROS2_RM_Navigation)
 
 ### 💻 [ROS2_LightMap_Delivery](https://github.com/laohao78/ROS2_LightMap_Delivery)
@@ -89,7 +89,8 @@
 > 从 SolidWorks 到 Gazebo 的完整机械臂建模与控制工作流
 - 🔧 技术栈：C++, ROS, MoveIt, SolidWorks, URDF, Realsense
 - ⭐ 亮点：CAD 到仿真的端到端工作流；集成了 Realsense 相机模块
-- 📍 [查看仓库](https://github.com/laohao78/ROS1_SW_Moveit)
+- � 成就：**2⭐** | 工程化的机械臂建模实战案例
+- �📍 [查看仓库](https://github.com/laohao78/ROS1_SW_Moveit)
 
 ### 🧭 [ROS2_RM_Decision](https://github.com/laohao78/ROS2_RM_Decision)
 > RoboMaster 场景的智能决策与导航系统
@@ -97,16 +98,24 @@
 - ⭐ 亮点：融合多传感器数据，实现复杂环境中的自主决策与运动控制
 - 📍 [查看仓库](https://github.com/laohao78/ROS2_RM_Decision)
 
+### 🤖 [lerobot-mujoco](https://github.com/laohao78/lerobot-mujoco)
+> 具身AI学习框架（LeRobot + MuJoCo 仿真）
+- 🔧 技术栈：Python, LeRobot, MuJoCo, 强化学习, 模仿学习
+- ⭐ 亮点：集成 LeRobot 框架与 MuJoCo 物理引擎，支持机器人强化学习与行为克隆
+- 📊 成就：**1⭐** | 前沿的具身智能研究方向
+- 📍 [查看仓库](https://github.com/laohao78/lerobot-mujoco)
+
 ---
 
 ## 📈 贡献和成就
 
 - 🌟 在 **ROS1_ARM_Simulation** 中获得 **6** 个 Star
-- 🔗 维护 **8** 个开源项目（ROS、机械臂、导航领域）
+- 🔗 维护 **9** 个开源项目（ROS、机械臂、导航、具身智能领域）
 - 👥 获得 **1** 个追随者（不断增长中）
 - 💬 发布了多个详细的 README 文档和使用指南
 - 🏆 参与 RoboMaster 竞赛，积累了丰富的竞赛经验
 - 🔄 跨越 ROS1/ROS2 两个版本，展示全栈机器人开发能力
+- 🤖 探索具身智能（Embodied AI）的前沿方向（LeRobot、MuJoCo）
 
 ---
 
