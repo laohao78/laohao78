@@ -68,14 +68,14 @@
 > 基于 ROS 和 Gazebo 的完整机械臂仿真平台
 - 🔧 技术栈：C++, ROS1, Gazebo, MoveIt, OpenCV
 - ⭐ 亮点：集成了相机标定、手眼标定到视觉抓取全流程；实现多种抓取算法（几何法与机器学习 GPD）
-- 📊 成就：**6⭐** | 高保真仿真环境，适合机器人视觉伺服和智能抓取学习
+- 📊 成就：**12⭐** (📈+100%) | 高保真仿真环境，适合机器人视觉伺服和智能抓取学习
 - 📍 [查看仓库](https://github.com/laohao78/ROS1_ARM_Simulation)
 
 ### 🎨 [ROS2_RM_Navigation](https://github.com/laohao78/ROS2_RM_Navigation)
 > 基于 ROS2 & Nav2 的机器人导航解决方案（RoboMaster 竞赛）
 - 🔧 技术栈：C++, ROS2, Nav2, Livox 激光雷达, IMU, SLAM
 - ⭐ 亮点：集成多传感器融合定位（LIO/SLAM）、动态避障导航、支持多种场地配置
-- 📊 成就：**5⭐** | 完整的实车适配指南，RoboMaster 竞赛最佳实践
+- 📊 成就：**8⭐** (📈+60%) | 完整的实车适配指南，RoboMaster 竞赛最佳实践
 - 📍 [查看仓库](https://github.com/laohao78/ROS2_RM_Navigation)
 
 ### 💻 [ROS2_LightMap_Delivery](https://github.com/laohao78/ROS2_LightMap_Delivery)
@@ -98,24 +98,39 @@
 - ⭐ 亮点：融合多传感器数据，实现复杂环境中的自主决策与运动控制
 - 📍 [查看仓库](https://github.com/laohao78/ROS2_RM_Decision)
 
-### 🤖 [lerobot-mujoco](https://github.com/laohao78/lerobot-mujoco)
-> 具身AI学习框架（LeRobot + MuJoCo 仿真）
-- 🔧 技术栈：Python, LeRobot, MuJoCo, 强化学习, 模仿学习
-- ⭐ 亮点：集成 LeRobot 框架与 MuJoCo 物理引擎，支持机器人强化学习与行为克隆
-- 📊 成就：**1⭐** | 前沿的具身智能研究方向
-- 📍 [查看仓库](https://github.com/laohao78/lerobot-mujoco)
+### 🤖 [Lerobot-Mujoco](https://github.com/laohao78/Lerobot-Mujoco)
+> 具身AI学习框架（LeRobot + MuJoCo 仿真 + 完整教程）
+- 🔧 技术栈：Python, LeRobot, MuJoCo, 强化学习, 行为克隆(ACT/pi0/SmolVLA)
+- ⭐ 亮点：包含 ACT、pi0、SmolVLA 模型的完整复现；数据采集、训练与部署全流程
+- 📊 成就：**5⭐** (📈+400%!) | 前沿的具身智能研究方向，获得快速关注
+- 📍 [查看仓库](https://github.com/laohao78/Lerobot-Mujoco)
+
+### 🦿 [Lite3_Handstand_RL](https://github.com/laohao78/Lite3_Handstand_RL)
+> 四足机器人倒立动作强化学习项目
+- 🔧 技术栈：Python, 强化学习, 仿真, 四足机器人动作控制
+- ⭐ 亮点：展示复杂机器人动作的 RL 训练方法；团队协作项目
+- 📍 [查看仓库](https://github.com/laohao78/Lite3_Handstand_RL)
+
+### 🌐 [laohao78.github.io](https://github.com/laohao78/laohao78.github.io)
+> 个人技术博客与作品展示网站
+- 🔧 技术栈：SCSS, 静态网站生成
+- ⭐ 亮点：展示个人项目和技术分享的个人网站
+- 📍 [查看仓库](https://github.com/laohao78/laohao78.github.io)
 
 ---
 
 ## 📈 贡献和成就
 
-- 🌟 在 **ROS1_ARM_Simulation** 中获得 **6** 个 Star
-- 🔗 维护 **9** 个开源项目（ROS、机械臂、导航、具身智能领域）
-- 👥 获得 **1** 个追随者（不断增长中）
+- 🌟 在 **ROS1_ARM_Simulation** 中获得 **12** 个 Star (📈+100%)
+- 🌟 在 **Lerobot-Mujoco** 中获得 **5** 个 Star (📈+400%! 🚀)
+- 🌟 在 **ROS2_RM_Navigation** 中获得 **8** 个 Star (📈+60%)
+- 🔗 维护 **11** 个开源项目（ROS、机械臂、导航、具身智能领域）
+- 👥 获得 **2** 个追随者（不断增长中 📈)
 - 💬 发布了多个详细的 README 文档和使用指南
 - 🏆 参与 RoboMaster 竞赛，积累了丰富的竞赛经验
 - 🔄 跨越 ROS1/ROS2 两个版本，展示全栈机器人开发能力
-- 🤖 探索具身智能（Embodied AI）的前沿方向（LeRobot、MuJoCo）
+- 🤖 探索具身智能（Embodied AI）的前沿方向（LeRobot、MuJoCo、RL）
+- 💻 构建个人技术品牌，创建技术博客分享经验
 
 ---
 
