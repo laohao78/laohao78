@@ -84,12 +84,12 @@ ji22 变换: rew = pos × exp(neg / 0.02)
 
 <table>
 <tr>
-<td align="center" width="50%" style="background:#fff3e0;padding:12px">
+<td align="center" width="50%" style="border-left:4px solid #ff9800;padding:12px">
 <b>路线 A</b><br/>
 课程 → 密集奖励 → 策略<br/>
 <sub>人类既定难度，又教每一步</sub>
 </td>
-<td align="center" width="50%" style="background:#e3f2fd;padding:12px">
+<td align="center" width="50%" style="border-left:4px solid #2196f3;padding:12px">
 <b>路线 B</b><br/>
 课程 → 稀疏奖励 → 策略<br/>
 <sub>人类只定义成功，策略自己发现</sub>
