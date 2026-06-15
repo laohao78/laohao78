@@ -1,5 +1,60 @@
 .claude
 
-# 项目
-Lerobot-Mujoco
-Lite3_Handstand_RL
+# Robotics_Tutorial-socratic[框架]
+Robotics_Tutorial
+# https://github.com/Michael-Jetson/Robotics_Tutorial
+
+# ======================== 【项目1】 =============================================================== 
+
+# Lite3_Handstand_RL-socratic[RL]1/3    
+Lite3_Handstand_RL 
+# https://github.com/XiaoBaiBZS/Legged_gym_handstand-for-DeepRobotics-JueYing-Lite3
+# https://github.com/laohao78/Lite3_Handstand_RL
+
+# walk-these-ways-socratic[RL]2/3
+walk-these-ways
+# https://github.com/Improbable-AI/walk-these-ways
+# https://github.com/laohao78/walk-these-ways
+
+# robot_lab-socratic[RL]3/3
+robot_lab
+# https://github.com/fan-ziqi/robot_lab
+
+# ======================== 【项目2】 ===============================================================
+
+# Lerobot-Mujoco-socratic[VLA]1/1
+Lerobot-Mujoco 
+# https://github.com/jeongeun980906/lerobot-mujoco-tutorial
+# https://github.com/laohao78/Lerobot-Mujoco
+
+# ======================== 【项目3】 ===============================================================
+
+# pb_rm_simulation-socratic[SLAM-ROS2]1/4
+pb_rm_simulation
+# https://github.com/LihanChen2004/pb_rm_simulation
+# https://github.com/laohao78/ROS2_RM_Navigation
+
+# light-map-navigation-socratic[SLAM-ROS2]2/4
+light-map-navigation
+# https://github.com/EI-Nav/light-map-navigation
+# https://github.com/laohao78/ROS2_LightMap_Delivery
+
+# pb2025_sentry_nav-socratic[SLAM-ROS2]3/4
+pb2025_sentry_nav
+# https://github.com/SMBU-PolarBear-Robotics-Team/pb2025_sentry_nav
+
+# SimpleSLAM-socratic[SLAM]4/4
+SimpleSLAM
+# https://github.com/Michael-Jetson/SimpleSLAM
+# https://github.com/laohao78/SimpleSLAM
+
+# ======================== 【项目4】 ===============================================================
+
+# ROS1_SW_Moveit-socratic[机械臂Moveit规划控制-ROS1]1/2
+ROS1_SW_Moveit
+# https://github.com/laohao78/ROS1_SW_Moveit
+
+# robot_sim-socratic[机械臂视觉伺服-ROS1]2/2
+robot_sim
+# https://github.com/Suyixiu/robot_sim
+# https://github.com/laohao78/ROS1_ARM_Simulation
