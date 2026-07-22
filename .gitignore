@@ -1,67 +1,97 @@
 .claude
 .docs
 
-# Robotics_Tutorial-socratic[框架]
+# ======================== 【项目0-框架】 =============================================================== 
+
+# Robotics_Tutorial-socratic
+[框架]1/1
 Robotics_Tutorial
 # https://github.com/Michael-Jetson/Robotics_Tutorial
 
 # ======================== 【项目1-RL】 =============================================================== 
 
-# Lite3_Handstand_RL-socratic[RL]1/3    
+# Lite3_Handstand_RL-socratic
+[RL]1/3    
 Lite3_Handstand_RL 
 # https://github.com/XiaoBaiBZS/Legged_gym_handstand-for-DeepRobotics-JueYing-Lite3
 # https://github.com/laohao78/Lite3_Handstand_RL
 
-# walk-these-ways-socratic[RL]2/3
+# walk-these-ways-socratic
+[RL]2/3
 walk-these-ways
 # https://github.com/Improbable-AI/walk-these-ways
 # https://github.com/laohao78/walk-these-ways
 
-# robot_lab-socratic[RL]3/3
+# robot_lab-socratic
+[RL]3/3
 robot_lab
 # https://github.com/fan-ziqi/robot_lab
 
 # ======================== 【项目2-VLA】 ===============================================================
 
-# Lerobot-Mujoco-socratic[VLA]1/1
+# Lerobot-Mujoco-socratic
+[VLA]1/1
 Lerobot-Mujoco 
 # https://github.com/jeongeun980906/lerobot-mujoco-tutorial
 # https://github.com/laohao78/Lerobot-Mujoco
 
 # ======================== 【项目3-SLAM】 ===============================================================
 
-# pb_rm_simulation-socratic[SLAM-ROS2]1/4
+# pb_rm_simulation-socratic
+[SLAM-ROS2/FAST-LIO]1/8
 pb_rm_simulation
 # https://github.com/LihanChen2004/pb_rm_simulation
 # https://github.com/laohao78/ROS2_RM_Navigation
 
-# light-map-navigation-socratic[SLAM-ROS2]2/4
+# light-map-navigation-socratic
+[SLAM-ROS2/FAST-LIO]2/8
 light-map-navigation
 # https://github.com/EI-Nav/light-map-navigation
 # https://github.com/laohao78/ROS2_LightMap_Delivery
 
-# pb2025_sentry_nav-socratic[SLAM-ROS2]3/4
+# pb2025_sentry_nav-socratic
+[SLAM-ROS2/Point-LIO]3/8
 pb2025_sentry_nav
 rmu_gazebo_simulator
 # https://github.com/SMBU-PolarBear-Robotics-Team/pb2025_sentry_nav
 # https://github.com/SMBU-PolarBear-Robotics-Team/rmu_gazebo_simulator
 
-# SimpleSLAM-socratic[SLAM]4/4
+# SimpleSLAM-socratic
+[SLAM]4/8
 SimpleSLAM
 # https://github.com/Michael-Jetson/SimpleSLAM
 # https://github.com/laohao78/SimpleSLAM
 
-# FAST-LIVO2-socratic[SLAM]5/4
+# FAST-LIVO2-socratic
+[SLAM-ROS1/FAST-LIVO2]5/8
 FAST-LIVO2
 # https://github.com/hku-mars/FAST-LIVO2
 
+# VINS-Mono-socratic
+[SLAM-ROS1/VINS-Mono]6/8
+VINS-Mono
+# https://github.com/HKUST-Aerial-Robotics/VINS-Mono
+
+# VINS-Fusion-socratic
+[SLAM-ROS1/VINS-Fusion]7/8
+VINS-Fusion
+# https://github.com/HKUST-Aerial-Robotics/VINS-Fusion
+
+# ORB_SLAM3-socratic
+[SLAM-ROS1/ORB_SLAM3]8/8
+ORB_SLAM3
+# https://github.com/UZ-SLAMLab/ORB_SLAM3
+
+
 # ======================== 【项目4-机械臂】 ===============================================================
 
-# ROS1_SW_Moveit-socratic[机械臂Moveit规划控制-ROS1]1/2
+# ROS1_SW_Moveit-socratic
+[机械臂Moveit规划控制-ROS1]1/2
 ROS1_SW_Moveit
 # https://github.com/laohao78/ROS1_SW_Moveit
 
-# robot_sim-socratic[机械臂视觉伺服-ROS1]2/2
+# robot_sim-socratic
+[机械臂视觉伺服-ROS1]2/2
 robot_sim
 # https://github.com/Suyixiu/robot_sim
 # https://github.com/laohao78/ROS1_ARM_Simulation
