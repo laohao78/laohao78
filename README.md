@@ -67,21 +67,28 @@
 > ROS & Nav2 机器人导航（RoboMaster）
 - 🔧 技术栈：C++, ROS, Nav2, Livox, IMU, LIO/SLAM
 - ⭐ 亮点：多传感器融合定位、动态避障、实车适配
-- 📊 成就：**13⭐** (📈+63%)
+- 📊 成就：**46⭐**
 - 📍 [查看仓库](https://github.com/laohao78/ROS2_RM_Navigation)
 
 #### [ROS2_LightMap_Delivery](https://github.com/laohao78/ROS2_LightMap_Delivery)
 > LLM + OpenStreetMap 最后一公里配送
 - 🔧 技术栈：Python, ROS, LLM, OpenStreetMap, 语义导航
 - ⭐ 亮点：无需高精地图，仅用开源地图 + LLM 实现语义导航
-- 📊 成就：**2⭐**
+- 📊 成就：**3⭐**
 - 📍 [查看仓库](https://github.com/laohao78/ROS2_LightMap_Delivery)
 
 #### [SimpleSLAM](https://github.com/laohao78/SimpleSLAM)
-> 从零理解 SLAM——用 Python 复现核心算法
-- 🔧 技术栈：Python, NumPy, 图优化, 回环检测
-- ⭐ 亮点：教育导向，每个模块可独立运行和理解
+> 模块化 C++20 SLAM 框架——一套代码切换 LIO / VIO / LIVO
+- 🔧 技术栈：C++, C++20, YAML 配置
+- ⭐ 亮点：通过 YAML 切换 LIO/VIO/LIVO，兼顾定位与建图，模块化便于替换与对比
 - 📍 [查看仓库](https://github.com/laohao78/SimpleSLAM)
+
+#### [StrataPlanner](https://github.com/laohao78/StrataPlanner)
+> 四足机器人多楼层联合导航
+- 🔧 技术栈：C++, PCT-Planner, SCAN-Planner
+- ⭐ 亮点：PCT-Planner 全局规划 + SCAN-Planner 局部避障，支持多楼层联合导航
+- 📊 成就：**2⭐**
+- 📍 [查看仓库](https://github.com/laohao78/StrataPlanner)
 
 ---
 
@@ -94,7 +101,7 @@
 - 📍 [查看仓库](https://github.com/laohao78/Lite3_Handstand_RL)
 
 #### [walk-these-ways](https://github.com/laohao78/walk-these-ways)
-> 四足机器人多步态运动——课程+稀疏奖励+连续 gait latent
+> 四足机器人多步态运动——课程+稀疏奖励+连续 gait latent（Unitree 官方实现复现）
 - 🔧 技术栈：Python, Isaac Gym, PPO, RMA, 课程学习
 - ⭐ 亮点：同一网络在 trot/pace/bound/pronk 间连续切换；仅 2 维 adaptation module
 - 📍 [查看仓库](https://github.com/laohao78/walk-these-ways)
@@ -107,7 +114,7 @@
 > LeRobot + MuJoCo 行为克隆全流程
 - 🔧 技术栈：Python, LeRobot, MuJoCo, ACT, pi0, SmolVLA
 - ⭐ 亮点：ACT/pi0/SmolVLA 模型完整复现；数据采集 → 训练 → 部署全流程
-- 📊 成就：**9⭐** (📈+80%)
+- 📊 成就：**40⭐**
 - 📍 [查看仓库](https://github.com/laohao78/Lerobot-Mujoco)
 
 ---
@@ -118,7 +125,7 @@
 > ROS + Gazebo 机械臂仿真平台
 - 🔧 技术栈：C++, ROS, Gazebo, MoveIt, OpenCV
 - ⭐ 亮点：相机标定→手眼标定→视觉抓取全流程；几何法与 GPD 两种抓取算法
-- 📊 成就：**16⭐** (📈+33%)
+- 📊 成就：**36⭐**
 - 📍 [查看仓库](https://github.com/laohao78/ROS1_ARM_Simulation)
 
 #### [ROS1_SW_Moveit](https://github.com/laohao78/ROS1_SW_Moveit)
@@ -151,11 +158,11 @@
 
 ## 📈 贡献和成就
 
-- 🌟 **ROS1_ARM_Simulation**: 16⭐ (📈+33%)
-- 🌟 **ROS2_RM_Navigation**: 13⭐ (📈+63%)
-- 🌟 **Lerobot-Mujoco**: 9⭐ (📈+80%)
-- 🔗 维护 **9+** 个开源项目（SLAM / RL / VLA / 机械臂）
-- 👥 获得 **4** 个追随者
+- 🌟 **ROS1_ARM_Simulation**: 36⭐
+- 🌟 **ROS2_RM_Navigation**: 46⭐
+- 🌟 **Lerobot-Mujoco**: 40⭐
+- 🔗 维护 **13** 个原创开源项目（SLAM / RL / VLA / 机械臂），累计 136⭐
+- 👥 获得 **8** 个关注者
 - 🏆 RoboMaster 竞赛经验
 - 🔄 跨越 ROS1/ROS2、仿真/真机、RL/IL/SLAM 全栈
 
